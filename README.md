@@ -33,6 +33,7 @@ print("no of words",len(words))
 
 ### OUTPUT:
 ![output](./1.png)
+![output](./2.png)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
